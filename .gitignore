@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Backup files
+*.save
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Trained models
+model.pkl
+vectorizer.pkl
+
